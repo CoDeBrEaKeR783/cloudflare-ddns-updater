@@ -121,3 +121,4 @@ case "$update" in
   fi
   exit 0;;
 esac
+renewcert
